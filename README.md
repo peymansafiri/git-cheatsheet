@@ -1,6 +1,6 @@
 # git-cheatsheet
 
-## This Document is for My DevOps exerscises ,  I want to answer some question about git:
+## This Document is for My DevOps exerscises ,  I want to answer some questions about git:
 
 ### why do we use version control tools like git?
 Programming projects usually have multiple developers working in parallel. So a version control system like Git is needed to ensure there are no code conflicts 
